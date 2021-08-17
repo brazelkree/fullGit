@@ -6,6 +6,7 @@ public class Test2 {
         System.out.println("two from dev");
 
         System.out.println("ONLY DEV");
+        System.out.println("ONLY DEV 2");
     }
 
 }
